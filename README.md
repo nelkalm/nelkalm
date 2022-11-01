@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **nelkalmlu@gmail.com**
 
-- ⚡ Fun fact **I love to travel, and been to 3 continents in 2022.**
+- ⚡ Fun fact **I love to travel, and I have been to 3 continents in 2022.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
