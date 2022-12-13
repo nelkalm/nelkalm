@@ -2,7 +2,7 @@
 <h3 align="center">A current CS student at Oregon State University</h3>
 
 
-- 🔭 I’m currently working on [a program reporting app](https://github.com/nelkalm/program-report-app)
+- 🔭 I’m currently working on [a program reporting app](https://github.com/nelkalm/[program-report-app](https://github.com/nelkalm/ReportSageApp))
 
 - 🌱 I’m currently learning **advanced algorithms, database, and networking.**
 
