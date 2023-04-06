@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [a program reporting app](https://github.com/nelkalm/ReportSageApp)
 
-- 🌱 I’m currently learning **advanced algorithms, database, and networking.**
+- 🌱 I’m currently learning **networking.**
 
 - 📫 How to reach me **nelkalmlu@gmail.com**
 
