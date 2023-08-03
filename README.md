@@ -2,9 +2,9 @@
 <h3 align="center">A current CS student at Oregon State University</h3>
 
 
-- 🔭 I’m currently working on [a program reporting app](https://github.com/nelkalm/ReportSageApp)
+- 🔭 I’m currently working on [a salary projection app](https://github.com/nelkalm/salaryProjectionApp) for the City of Chicago Department of Public Health.
 
-- 🌱 I’m currently learning **networking.**
+- 🌱 I’m currently learning **operating systems.**
 
 - 📫 How to reach me **nelkalmlu@gmail.com**
 
